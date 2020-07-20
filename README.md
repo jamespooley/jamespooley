@@ -4,5 +4,5 @@
 
 Howdy, there! I'm a data scientist and manager of data scientists at [360i](https://www.360i.com/) in NYC.
 
-As an IC, I currently work on projects and data products with a strong econometrics and operations research flavor. As a people manager,
+As an IC, I currently work on data projects and products with a strong econometrics and operations research flavor. As a people manager,
 I optimize for team psychological safety.
