@@ -7,6 +7,6 @@ Howdy, there! I'm a data scientist and manager of data scientists at [360i](http
 * As an IC, I currently work on data projects and products with a strong econometrics and operations research flavor.
     * I like modeling person-level data 👨
     * I like time series forecasting 📈 🔮
-    * I like stochastic processes 🎲
+    * I like stochastic (especially Poisson) processes 🎲 🐟
     * I like 🐍 and I like 🏴‍☠️
 * As a people manager, I optimize for team psychological safety.
