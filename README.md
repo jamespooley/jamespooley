@@ -8,4 +8,5 @@ Howdy, there! I'm a data scientist and manager of data scientists at [360i](http
     * I like modeling person-level data 👨
     * I like time series forecasting 📈
     * I like stochastic processes 🎲
+    * I like 🐍 and I like 🏴‍☠️
 * As a people manager, I optimize for team psychological safety.
