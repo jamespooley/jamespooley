@@ -9,5 +9,5 @@ Howdy, there! I'm a data scientist and manager of data scientists at [360i](http
     * I like time series forecasting 📈 🔮
     * I like stochastic (especially Poisson) processes 🎲 🐟
     * I like 🐍 and I like 🏴‍☠️
-    * I like writing clear, comprehensive documentation 📄
+    * I like writing clear, comprehensive, usable documentation 📝
 * As a people manager, I optimize for team psychological safety and work to engineer a pit of success for my direct reports 🕳️.
