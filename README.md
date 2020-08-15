@@ -10,4 +10,4 @@ Howdy, there! I'm a data scientist and manager of data scientists at [360i](http
     * I like stochastic (especially Poisson) processes 🎲 🐟
     * I like programming in 🐍 and in 🏴‍☠️
     * I like writing clear, comprehensive, usable documentation 📝 💡
-* As a people manager, I prioritize team psychological safety and work to engineer a pit of success for my direct reports 🕳️ 😊.
+* As a people manager, I prioritize team psychological safety and clarity, and work to engineer a pit of success for my direct reports 🕳️ 😊.
