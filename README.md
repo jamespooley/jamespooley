@@ -4,13 +4,14 @@
 
 Howdy, there! I'm a data scientist and manager of data scientists at [360i](https://www.360i.com/), an integrated creative and media agency in NYC.
 
-* As an IC, I currently work on data projects and products with a strong econometrics and operations research flavor.
+As an IC, I currently work on data projects and products with a strong econometrics and operations research flavor.
     * I like building statistical models for person-level data (but am also concerned about the implications of such data) 👨 🔒
     * I like time series forecasting 📈 🔮
     * I like stochastic (especially Poisson) processes 🎲 🐟
     * I like programming in 🐍 and in 🏴‍☠️
     * I like writing clear, comprehensive, usable documentation 📝 💡
-* As a people manager, I work to engineer a pit of success for my direct reports and prioritize:
+
+As a people manager, I work to engineer a [pit of success](https://www.auckland.ac.nz/en/news/2017/12/05/problem-solving-pits-of-success.html) for my direct reports and prioritize:
     * Psychological safety
     * Trust
     * Clarity
