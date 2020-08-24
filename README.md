@@ -12,8 +12,8 @@ As an IC, I currently work on data projects and products with a strong econometr
 * I like programming in 🐍 and in 🏴‍☠️
 * I like writing clear, comprehensive, usable documentation 📝 💡
 
-As a people manager, I work to engineer a [pit of success](https://www.auckland.ac.nz/en/news/2017/12/05/problem-solving-pits-of-success.html) for my direct reports and prioritize:
+As a people manager, I work to engineer a [pit of success](https://www.auckland.ac.nz/en/news/2017/12/05/problem-solving-pits-of-success.html) for my direct reports and prioritize providing:
 
 * Trust
 * Clarity
-* Time and safety needed to build capacity
+* The time and safety needed to grow and build capacity
