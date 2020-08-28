@@ -9,7 +9,7 @@ As an IC, I currently work on data projects and products with a strong econometr
 * I like building statistical models for person-level data (but am also concerned about the implications of such data) 👨 🔒
 * I like time series forecasting 📈 🔮
 * I like stochastic (especially Poisson) processes 🎲 🐟
-* I like programming in 🐍 and in 🏴‍☠️
+* I like programming in 🐍 and in 🏴‍☠️a and in the ☁️
 * I like writing clear, comprehensive, usable documentation 📝 💡
 
 As a people manager, I work to engineer an environment of trust and clarity for my direct reports.
