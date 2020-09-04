@@ -2,7 +2,7 @@
 
 Howdy, there! I'm a data scientist and manager of data scientists at [360i](https://www.360i.com/), an integrated creative and media agency in NYC.
 
-As an IC, I currently work on data projects and products with a strong econometrics and operations research flavor.
+As an IC, I currently work on data projects and products with a strong econometric and operations research flavor.
 
 * I like building statistical models for person-level data (but am also concerned about the implications of such data) 👨 🔒
 * I like time series forecasting 📈 🔮
