@@ -10,4 +10,4 @@ As an IC, I currently work on data projects and products with a strong econometr
 * I like programming in 🐍 and in 🏴‍☠️  and setting my programs loose in the ☁️
 * I like writing clear, comprehensive, usable documentation 📝 💡
 
-As a people manager, I work to engineer an environment of trust and clarity for my direct reports.
+As a people manager, I work to engineer a productive environment of trust, clarity, and fun for my direct reports.
