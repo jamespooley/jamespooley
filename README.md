@@ -7,5 +7,5 @@ I'm currently working on various data projects and products with a strong econom
 * I like building statistical models for person-level data (but am also concerned about the implications of such data) 👨 🔒
 * I like time series forecasting 📈 🔮
 * I like stochastic (especially Poisson) processes 🎲 🐟
-* I like programming in Python and in R  and in  and setting my programs loose in the cloud. 🐍 🏴‍☠️  ☁️
+* I like programming in Python and R and setting my programs loose in the cloud. 🐍 🏴‍☠️  ☁️
 * I like writing clear, comprehensive, usable documentation 📝 💡
