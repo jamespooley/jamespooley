@@ -10,4 +10,4 @@ I'm currently working on various data projects and products with a strong econom
 * I like programming in Python and R and setting my programs loose in the cloud. 🐍 🏴‍☠️  ☁️
 * I like writing clear, comprehensive, usable documentation 📝 💡
 
-When not working with data, I can sometimes be [seen dancing](https://www.youtube.com/watch?v=yWstd3jDZIs) ... poorly.
+When not working with data, I can sometimes be [spotted dancing](https://www.youtube.com/watch?v=yWstd3jDZIs) ... poorly.
