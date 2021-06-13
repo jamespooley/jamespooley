@@ -11,3 +11,9 @@ I'm currently working on various data projects and products with a strong econom
 * I like writing clear, comprehensive, usable documentation 📝 💡
 
 When not working with data, I can sometimes be [spotted dancing](https://www.youtube.com/watch?v=yWstd3jDZIs) ... poorly.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamespooley">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
