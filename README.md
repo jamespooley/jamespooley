@@ -2,7 +2,7 @@ Howdy, there! I'm a data scientist at [360i](https://www.360i.com/), an integrat
 
 I'm currently working on various data projects and products with a strong econometrics and operations research flavor.
 
-* I like building statistical models for person-level data (but am also concerned about the implications of such data) 👨 🔒
+* I like building statistical models for person-level data (but am also concerned about the privacy implications of such data) 👨 🔒
 * I like time series forecasting 📈 🔮
 * I like stochastic (especially Poisson) processes 🎲 🐟
 * I like programming in Python and R and setting my programs loose in the cloud. 🐍 🏴‍☠️  ☁️
