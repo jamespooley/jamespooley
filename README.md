@@ -6,7 +6,7 @@ Howdy, there! I'm a data scientist at [PebblePost](https://www.pebblepost.com/).
 <!-- * I like programming in Python and R and setting my programs loose in the cloud. 🐍 🏴‍☠️  ☁️ -->
 <!-- * I like writing clear, comprehensive, usable documentation 📝 💡 -->
 
-When not working with data, I'm usually consuming dark fiction, swimming in [oceans of sounds](https://serpentstail.com/work/ocean-of-sound/),
+When not working with data, I'm usually consuming dark fiction, swimming in [oceans of sound](https://serpentstail.com/work/ocean-of-sound/),
 and can sometimes be [spotted dancing](https://www.youtube.com/watch?v=yWstd3jDZIs) in Brooklyn ... poorly.
 
 <p align="center">
