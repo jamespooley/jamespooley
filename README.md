@@ -1,4 +1,4 @@
-Howdy, there! I'm a data scientist at [PebblePost](https://www.pebblepost.com/).
+Howdy, there! I'm a data scientist located in New York City.
 
 <!-- * I like building statistical models for person-level data (but am also concerned about the privacy implications of such data) 👨 🔒 -->
 <!-- * I like time series forecasting 📈 🔮 -->
