@@ -7,7 +7,7 @@ Howdy, there! I'm a data scientist at [The Knot Worldwide](https://www.theknotww
 <!-- * I like writing clear, comprehensive, usable documentation 📝 💡 -->
 
 When not working with data, I'm usually [consuming](https://wordhorde.com/) [dark](https://www.valancourtbooks.com/horror--science-fiction.html)
-[fiction](https://undertowpublications.com/), swimming in [oceans of sound](https://serpentstail.com/work/ocean-of-sound/),
+[fiction](https://undertowpublications.com/), swimming in [oceans of sound](https://serpentstail.com/work/ocean-of-sound/), playing guitar,
 and can sometimes be [spotted dancing](https://www.youtube.com/watch?v=yWstd3jDZIs) in Brooklyn ... poorly.
 
 <p align="center">
